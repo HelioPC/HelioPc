@@ -1,4 +1,4 @@
-# Olá, eu sou o Eliude P. C. Vemba 👋
+# Olá, eu sou o Eliude P. C. Vemba 👋🏽
 
 ## Eu, dev! 💻👇🏽
 
