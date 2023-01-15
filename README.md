@@ -207,9 +207,9 @@
     "
 >
 
-![HelioPC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelioPC&show_icons=true&theme=dark&title_color=0F0&text_color=9D9&locale=pt-br&count_private=true)
+<img src='https://github-readme-stats.vercel.app/api?username=HelioPC&show_icons=true&theme=dark&title_color=0F0&text_color=9D9&locale=pt-br&count_private=true' />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPC&layout=compact&langs_count=10&hide=cmake)](https://github.com/HelioPC)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPC&layout=compact&langs_count=10&hide=cmake)](https://github.com/HelioPC' />
 </div>
 
 ------
@@ -227,10 +227,10 @@
     "
 >
 
-[![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliude-vemba-a0a24b22a/)
-[![Top Langs](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helio_carvalho0)
-[![Top Langs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_carvalho_h/)
-[![Top Langs](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweeteliude@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliude-vemba-a0a24b22a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helio_carvalho0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_carvalho_h/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweeteliude@gmail.com)
 </div>
 
 ------
@@ -238,18 +238,3 @@
 ## Thank you 🙋🏽 ✅ 👀 😘 💻
 
 ![](https://visitor-badge.glitch.me/badge?page_id=HelioPC.HelioPC)
-
-<!--
-**HelioPC/HelioPc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
