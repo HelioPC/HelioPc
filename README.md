@@ -209,7 +209,7 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=HelioPC&show_icons=true&theme=dark&title_color=0F0&text_color=9D9&locale=pt-br&count_private=true' />
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPC&layout=compact&langs_count=10&hide=cmake)](https://github.com/HelioPC' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPC&layout=compact&langs_count=10&hide=cmake' />
 </div>
 
 ------
