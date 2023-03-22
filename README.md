@@ -195,6 +195,10 @@
 
 ------
 
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=HelioPC&theme=github-compact' />
+
+------
+
 <div
     style="
         width: 100%;
