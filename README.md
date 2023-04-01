@@ -76,35 +76,35 @@
     "
 >
     <img
-        alt="html5"
+        alt="react"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     />
     <img
-        alt="html5"
+        alt="typescript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     />
     <img
-        alt="html5"
+        alt="tailwindcss"
         src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
     />
     <img
-        alt="html5"
+        alt="styled-components"
         src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
     />
     <img
-        alt="html5"
+        alt="material ui"
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
     />
     <img
-        alt="html5"
+        alt="node js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
     />
     <img
-        alt="html5"
+        alt="flutter"
         src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
     />
     <img
-        alt="html5"
+        alt="dart"
         src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
     />
 </div>
@@ -123,27 +123,27 @@
     "
 >
     <img
-        alt="polkadot"
+        alt="vscode"
         src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
     />
     <img
-        alt="polkadot"
+        alt="Xcode"
         src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"
     />
     <img
-        alt="polkadot"
+        alt="Git"
         src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
     />
     <img
-        alt="polkadot"
+        alt="Hyper terminal"
         src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"
     />
     <img
-        alt="polkadot"
+        alt="Debian OS"
         src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"
     />
     <img
-        alt="polkadot"
+        alt="MacOS"
         src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
     />
 </div>
