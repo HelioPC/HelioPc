@@ -107,6 +107,14 @@
         alt="dart"
         src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
     />
+    <img
+        alt="swiftui"
+        src="https://img.shields.io/badge/SwiftUI-003489?style=for-the-badge&logo=swift&logoColor=white"
+    />
+    <img
+        alt="swift"
+        src="https://img.shields.io/badge/Swift-E44C30?style=for-the-badge&logo=swift&logoColor=white"
+    />
 </div>
 
 ------
